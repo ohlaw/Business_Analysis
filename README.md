@@ -1,4 +1,4 @@
-# Business Analysis For Yandex_Afisha
+# Business Analysis For Yandex Afisha
 
 ## Project Description
 You've been offered an internship in the analytical department at Yandex.Afisha. Your first task is to analyze the business metrics of Yandex.Afisha, an app that helps users find out about events like movie showings, exhibitions, gigs, etc. and buy tickets. The goal is to help the marketing department optimize marketing expenses.  
